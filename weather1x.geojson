@@ -1,0 +1,872 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4269"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Climate ID": null,
+                "Station Name": "BALLENAS ISLAND",
+                "Date/Time": "",
+                "Year": "",
+                "Month": "",
+                "Day": "",
+                "Data Quality": "",
+                "Max Temp (\u00b0C)": "",
+                "Max Temp Flag": "",
+                "Min Temp (\u00b0C)": "",
+                "Min Temp Flag": "",
+                "Mean Temp (\u00b0C)": "",
+                "Mean Temp Flag": "",
+                "Heat Deg Days (\u00b0C)": "",
+                "Heat Deg Days Flag": "",
+                "Cool Deg Days (\u00b0C)": "",
+                "Cool Deg Days Flag": "",
+                "Total Rain (mm)": "",
+                "Total Rain Flag": "",
+                "Total Snow (cm)": "",
+                "Total Snow Flag": "",
+                "Total Precip (mm)": "",
+                "Total Precip Flag": "",
+                "Snow on Grnd (cm)": "",
+                "Snow on Grnd Flag": "",
+                "Dir of Max Gust (10s deg)": "",
+                "Dir of Max Gust Flag": "",
+                "Spd of Max Gust (km/h)": "",
+                "Spd of Max Gust Flag": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.16,
+                    49.35
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Climate ID": null,
+                "Station Name": "CAMPBELL RIVER A",
+                "Date/Time": "",
+                "Year": "",
+                "Month": "",
+                "Day": "",
+                "Data Quality": "",
+                "Max Temp (\u00b0C)": "",
+                "Max Temp Flag": "",
+                "Min Temp (\u00b0C)": "",
+                "Min Temp Flag": "",
+                "Mean Temp (\u00b0C)": "",
+                "Mean Temp Flag": "",
+                "Heat Deg Days (\u00b0C)": "",
+                "Heat Deg Days Flag": "",
+                "Cool Deg Days (\u00b0C)": "",
+                "Cool Deg Days Flag": "",
+                "Total Rain (mm)": "",
+                "Total Rain Flag": "",
+                "Total Snow (cm)": "",
+                "Total Snow Flag": "",
+                "Total Precip (mm)": "",
+                "Total Precip Flag": "",
+                "Snow on Grnd (cm)": "",
+                "Snow on Grnd Flag": "",
+                "Dir of Max Gust (10s deg)": "",
+                "Dir of Max Gust Flag": "",
+                "Spd of Max Gust (km/h)": "",
+                "Spd of Max Gust Flag": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -125.27,
+                    49.95
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Climate ID": null,
+                "Station Name": "ALBERNI ROBERTSON CREEK",
+                "Date/Time": "",
+                "Year": "",
+                "Month": "",
+                "Day": "",
+                "Data Quality": "",
+                "Max Temp (\u00b0C)": "",
+                "Max Temp Flag": "",
+                "Min Temp (\u00b0C)": "",
+                "Min Temp Flag": "",
+                "Mean Temp (\u00b0C)": "",
+                "Mean Temp Flag": "",
+                "Heat Deg Days (\u00b0C)": "",
+                "Heat Deg Days Flag": "",
+                "Cool Deg Days (\u00b0C)": "",
+                "Cool Deg Days Flag": "",
+                "Total Rain (mm)": "",
+                "Total Rain Flag": "",
+                "Total Snow (cm)": "",
+                "Total Snow Flag": "",
+                "Total Precip (mm)": "",
+                "Total Precip Flag": "",
+                "Snow on Grnd (cm)": "",
+                "Snow on Grnd Flag": "",
+                "Dir of Max Gust (10s deg)": "",
+                "Dir of Max Gust Flag": "",
+                "Spd of Max Gust (km/h)": "",
+                "Spd of Max Gust Flag": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.98,
+                    49.34
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Climate ID": null,
+                "Station Name": "BOWEN ISLAND SUNSET PARK",
+                "Date/Time": "",
+                "Year": "",
+                "Month": "",
+                "Day": "",
+                "Data Quality": "",
+                "Max Temp (\u00b0C)": "",
+                "Max Temp Flag": "",
+                "Min Temp (\u00b0C)": "",
+                "Min Temp Flag": "",
+                "Mean Temp (\u00b0C)": "",
+                "Mean Temp Flag": "",
+                "Heat Deg Days (\u00b0C)": "",
+                "Heat Deg Days Flag": "",
+                "Cool Deg Days (\u00b0C)": "",
+                "Cool Deg Days Flag": "",
+                "Total Rain (mm)": "",
+                "Total Rain Flag": "",
+                "Total Snow (cm)": "",
+                "Total Snow Flag": "",
+                "Total Precip (mm)": "",
+                "Total Precip Flag": "",
+                "Snow on Grnd (cm)": "",
+                "Snow on Grnd Flag": "",
+                "Dir of Max Gust (10s deg)": "",
+                "Dir of Max Gust Flag": "",
+                "Spd of Max Gust (km/h)": "",
+                "Spd of Max Gust Flag": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.4,
+                    49.36
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Climate ID": null,
+                "Station Name": "ADDENBROKE ISLAND",
+                "Date/Time": "",
+                "Year": "",
+                "Month": "",
+                "Day": "",
+                "Data Quality": "",
+                "Max Temp (\u00b0C)": "",
+                "Max Temp Flag": "",
+                "Min Temp (\u00b0C)": "",
+                "Min Temp Flag": "",
+                "Mean Temp (\u00b0C)": "",
+                "Mean Temp Flag": "",
+                "Heat Deg Days (\u00b0C)": "",
+                "Heat Deg Days Flag": "",
+                "Cool Deg Days (\u00b0C)": "",
+                "Cool Deg Days Flag": "",
+                "Total Rain (mm)": "",
+                "Total Rain Flag": "",
+                "Total Snow (cm)": "",
+                "Total Snow Flag": "",
+                "Total Precip (mm)": "",
+                "Total Precip Flag": "",
+                "Snow on Grnd (cm)": "",
+                "Snow on Grnd Flag": "",
+                "Dir of Max Gust (10s deg)": "",
+                "Dir of Max Gust Flag": "",
+                "Spd of Max Gust (km/h)": "",
+                "Spd of Max Gust Flag": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -127.86,
+                    51.6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Climate ID": null,
+                "Station Name": "BELLA BELLA",
+                "Date/Time": "",
+                "Year": "",
+                "Month": "",
+                "Day": "",
+                "Data Quality": "",
+                "Max Temp (\u00b0C)": "",
+                "Max Temp Flag": "",
+                "Min Temp (\u00b0C)": "",
+                "Min Temp Flag": "",
+                "Mean Temp (\u00b0C)": "",
+                "Mean Temp Flag": "",
+                "Heat Deg Days (\u00b0C)": "",
+                "Heat Deg Days Flag": "",
+                "Cool Deg Days (\u00b0C)": "",
+                "Cool Deg Days Flag": "",
+                "Total Rain (mm)": "",
+                "Total Rain Flag": "",
+                "Total Snow (cm)": "",
+                "Total Snow Flag": "",
+                "Total Precip (mm)": "",
+                "Total Precip Flag": "",
+                "Snow on Grnd (cm)": "",
+                "Snow on Grnd Flag": "",
+                "Dir of Max Gust (10s deg)": "",
+                "Dir of Max Gust Flag": "",
+                "Spd of Max Gust (km/h)": "",
+                "Spd of Max Gust Flag": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -128.16,
+                    52.19
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Climate ID": null,
+                "Station Name": "BELLA COOLA AIRPORT",
+                "Date/Time": "",
+                "Year": "",
+                "Month": "",
+                "Day": "",
+                "Data Quality": "",
+                "Max Temp (\u00b0C)": "",
+                "Max Temp Flag": "",
+                "Min Temp (\u00b0C)": "",
+                "Min Temp Flag": "",
+                "Mean Temp (\u00b0C)": "",
+                "Mean Temp Flag": "",
+                "Heat Deg Days (\u00b0C)": "",
+                "Heat Deg Days Flag": "",
+                "Cool Deg Days (\u00b0C)": "",
+                "Cool Deg Days Flag": "",
+                "Total Rain (mm)": "",
+                "Total Rain Flag": "",
+                "Total Snow (cm)": "",
+                "Total Snow Flag": "",
+                "Total Precip (mm)": "",
+                "Total Precip Flag": "",
+                "Snow on Grnd (cm)": "",
+                "Snow on Grnd Flag": "",
+                "Dir of Max Gust (10s deg)": "",
+                "Dir of Max Gust Flag": "",
+                "Spd of Max Gust (km/h)": "",
+                "Spd of Max Gust Flag": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -126.59,
+                    52.39
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Climate ID": null,
+                "Station Name": "BELLA COOLA A",
+                "Date/Time": "",
+                "Year": "",
+                "Month": "",
+                "Day": "",
+                "Data Quality": "",
+                "Max Temp (\u00b0C)": "",
+                "Max Temp Flag": "",
+                "Min Temp (\u00b0C)": "",
+                "Min Temp Flag": "",
+                "Mean Temp (\u00b0C)": "",
+                "Mean Temp Flag": "",
+                "Heat Deg Days (\u00b0C)": "",
+                "Heat Deg Days Flag": "",
+                "Cool Deg Days (\u00b0C)": "",
+                "Cool Deg Days Flag": "",
+                "Total Rain (mm)": "",
+                "Total Rain Flag": "",
+                "Total Snow (cm)": "",
+                "Total Snow Flag": "",
+                "Total Precip (mm)": "",
+                "Total Precip Flag": "",
+                "Snow on Grnd (cm)": "",
+                "Snow on Grnd Flag": "",
+                "Dir of Max Gust (10s deg)": "",
+                "Dir of Max Gust Flag": "",
+                "Spd of Max Gust (km/h)": "",
+                "Spd of Max Gust Flag": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -126.6,
+                    52.39
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Climate ID": null,
+                "Station Name": "BOAT BLUFF",
+                "Date/Time": "",
+                "Year": "",
+                "Month": "",
+                "Day": "",
+                "Data Quality": "",
+                "Max Temp (\u00b0C)": "",
+                "Max Temp Flag": "",
+                "Min Temp (\u00b0C)": "",
+                "Min Temp Flag": "",
+                "Mean Temp (\u00b0C)": "",
+                "Mean Temp Flag": "",
+                "Heat Deg Days (\u00b0C)": "",
+                "Heat Deg Days Flag": "",
+                "Cool Deg Days (\u00b0C)": "",
+                "Cool Deg Days Flag": "",
+                "Total Rain (mm)": "",
+                "Total Rain Flag": "",
+                "Total Snow (cm)": "",
+                "Total Snow Flag": "",
+                "Total Precip (mm)": "",
+                "Total Precip Flag": "",
+                "Snow on Grnd (cm)": "",
+                "Snow on Grnd Flag": "",
+                "Dir of Max Gust (10s deg)": "",
+                "Dir of Max Gust Flag": "",
+                "Spd of Max Gust (km/h)": "",
+                "Spd of Max Gust Flag": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -128.52,
+                    52.64
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Climate ID": null,
+                "Station Name": "BONILLA ISLAND",
+                "Date/Time": "",
+                "Year": "",
+                "Month": "",
+                "Day": "",
+                "Data Quality": "",
+                "Max Temp (\u00b0C)": "",
+                "Max Temp Flag": "",
+                "Min Temp (\u00b0C)": "",
+                "Min Temp Flag": "",
+                "Mean Temp (\u00b0C)": "",
+                "Mean Temp Flag": "",
+                "Heat Deg Days (\u00b0C)": "",
+                "Heat Deg Days Flag": "",
+                "Cool Deg Days (\u00b0C)": "",
+                "Cool Deg Days Flag": "",
+                "Total Rain (mm)": "",
+                "Total Rain Flag": "",
+                "Total Snow (cm)": "",
+                "Total Snow Flag": "",
+                "Total Precip (mm)": "",
+                "Total Precip Flag": "",
+                "Snow on Grnd (cm)": "",
+                "Snow on Grnd Flag": "",
+                "Dir of Max Gust (10s deg)": "",
+                "Dir of Max Gust Flag": "",
+                "Spd of Max Gust (km/h)": "",
+                "Spd of Max Gust Flag": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -130.64,
+                    53.49
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Climate ID": null,
+                "Station Name": "BARKERVILLE",
+                "Date/Time": "",
+                "Year": "",
+                "Month": "",
+                "Day": "",
+                "Data Quality": "",
+                "Max Temp (\u00b0C)": "",
+                "Max Temp Flag": "",
+                "Min Temp (\u00b0C)": "",
+                "Min Temp Flag": "",
+                "Mean Temp (\u00b0C)": "",
+                "Mean Temp Flag": "",
+                "Heat Deg Days (\u00b0C)": "",
+                "Heat Deg Days Flag": "",
+                "Cool Deg Days (\u00b0C)": "",
+                "Cool Deg Days Flag": "",
+                "Total Rain (mm)": "",
+                "Total Rain Flag": "",
+                "Total Snow (cm)": "",
+                "Total Snow Flag": "",
+                "Total Precip (mm)": "",
+                "Total Precip Flag": "",
+                "Snow on Grnd (cm)": "",
+                "Snow on Grnd Flag": "",
+                "Dir of Max Gust (10s deg)": "",
+                "Dir of Max Gust Flag": "",
+                "Spd of Max Gust (km/h)": "",
+                "Spd of Max Gust Flag": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.51,
+                    53.07
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Climate ID": null,
+                "Station Name": "BURNS LAKE DECKER LAKE",
+                "Date/Time": "",
+                "Year": "",
+                "Month": "",
+                "Day": "",
+                "Data Quality": "",
+                "Max Temp (\u00b0C)": "",
+                "Max Temp Flag": "",
+                "Min Temp (\u00b0C)": "",
+                "Min Temp Flag": "",
+                "Mean Temp (\u00b0C)": "",
+                "Mean Temp Flag": "",
+                "Heat Deg Days (\u00b0C)": "",
+                "Heat Deg Days Flag": "",
+                "Cool Deg Days (\u00b0C)": "",
+                "Cool Deg Days Flag": "",
+                "Total Rain (mm)": "",
+                "Total Rain Flag": "",
+                "Total Snow (cm)": "",
+                "Total Snow Flag": "",
+                "Total Precip (mm)": "",
+                "Total Precip Flag": "",
+                "Snow on Grnd (cm)": "",
+                "Snow on Grnd Flag": "",
+                "Dir of Max Gust (10s deg)": "",
+                "Dir of Max Gust Flag": "",
+                "Spd of Max Gust (km/h)": "",
+                "Spd of Max Gust Flag": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -125.96,
+                    54.38
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Climate ID": null,
+                "Station Name": "ABBOTSFORD A",
+                "Date/Time": "",
+                "Year": "",
+                "Month": "",
+                "Day": "",
+                "Data Quality": "",
+                "Max Temp (\u00b0C)": "",
+                "Max Temp Flag": "",
+                "Min Temp (\u00b0C)": "",
+                "Min Temp Flag": "",
+                "Mean Temp (\u00b0C)": "",
+                "Mean Temp Flag": "",
+                "Heat Deg Days (\u00b0C)": "",
+                "Heat Deg Days Flag": "",
+                "Cool Deg Days (\u00b0C)": "",
+                "Cool Deg Days Flag": "",
+                "Total Rain (mm)": "",
+                "Total Rain Flag": "",
+                "Total Snow (cm)": "",
+                "Total Snow Flag": "",
+                "Total Precip (mm)": "",
+                "Total Precip Flag": "",
+                "Snow on Grnd (cm)": "",
+                "Snow on Grnd Flag": "",
+                "Dir of Max Gust (10s deg)": "",
+                "Dir of Max Gust Flag": "",
+                "Spd of Max Gust (km/h)": "",
+                "Spd of Max Gust Flag": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.36,
+                    49.03
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Climate ID": null,
+                "Station Name": "AGASSIZ RCS",
+                "Date/Time": "",
+                "Year": "",
+                "Month": "",
+                "Day": "",
+                "Data Quality": "",
+                "Max Temp (\u00b0C)": "",
+                "Max Temp Flag": "",
+                "Min Temp (\u00b0C)": "",
+                "Min Temp Flag": "",
+                "Mean Temp (\u00b0C)": "",
+                "Mean Temp Flag": "",
+                "Heat Deg Days (\u00b0C)": "",
+                "Heat Deg Days Flag": "",
+                "Cool Deg Days (\u00b0C)": "",
+                "Cool Deg Days Flag": "",
+                "Total Rain (mm)": "",
+                "Total Rain Flag": "",
+                "Total Snow (cm)": "",
+                "Total Snow Flag": "",
+                "Total Precip (mm)": "",
+                "Total Precip Flag": "",
+                "Snow on Grnd (cm)": "",
+                "Snow on Grnd Flag": "",
+                "Dir of Max Gust (10s deg)": "",
+                "Dir of Max Gust Flag": "",
+                "Spd of Max Gust (km/h)": "",
+                "Spd of Max Gust Flag": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.76,
+                    49.24
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Climate ID": null,
+                "Station Name": "CALLAGHAN VALLEY",
+                "Date/Time": "",
+                "Year": "",
+                "Month": "",
+                "Day": "",
+                "Data Quality": "",
+                "Max Temp (\u00b0C)": "",
+                "Max Temp Flag": "",
+                "Min Temp (\u00b0C)": "",
+                "Min Temp Flag": "",
+                "Mean Temp (\u00b0C)": "",
+                "Mean Temp Flag": "",
+                "Heat Deg Days (\u00b0C)": "",
+                "Heat Deg Days Flag": "",
+                "Cool Deg Days (\u00b0C)": "",
+                "Cool Deg Days Flag": "",
+                "Total Rain (mm)": "",
+                "Total Rain Flag": "",
+                "Total Snow (cm)": "",
+                "Total Snow Flag": "",
+                "Total Precip (mm)": "",
+                "Total Precip Flag": "",
+                "Snow on Grnd (cm)": "",
+                "Snow on Grnd Flag": "",
+                "Dir of Max Gust (10s deg)": "",
+                "Dir of Max Gust Flag": "",
+                "Spd of Max Gust (km/h)": "",
+                "Spd of Max Gust Flag": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.11,
+                    50.14
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Climate ID": null,
+                "Station Name": "VANCOUVER INTL A",
+                "Date/Time": "",
+                "Year": "",
+                "Month": "",
+                "Day": "",
+                "Data Quality": "",
+                "Max Temp (\u00b0C)": "",
+                "Max Temp Flag": "",
+                "Min Temp (\u00b0C)": "",
+                "Min Temp Flag": "",
+                "Mean Temp (\u00b0C)": "",
+                "Mean Temp Flag": "",
+                "Heat Deg Days (\u00b0C)": "",
+                "Heat Deg Days Flag": "",
+                "Cool Deg Days (\u00b0C)": "",
+                "Cool Deg Days Flag": "",
+                "Total Rain (mm)": "",
+                "Total Rain Flag": "",
+                "Total Snow (cm)": "",
+                "Total Snow Flag": "",
+                "Total Precip (mm)": "",
+                "Total Precip Flag": "",
+                "Snow on Grnd (cm)": "",
+                "Snow on Grnd Flag": "",
+                "Dir of Max Gust (10s deg)": "",
+                "Dir of Max Gust Flag": "",
+                "Spd of Max Gust (km/h)": "",
+                "Spd of Max Gust Flag": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.18,
+                    49.19
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Climate ID": null,
+                "Station Name": "BILLINGS",
+                "Date/Time": "",
+                "Year": "",
+                "Month": "",
+                "Day": "",
+                "Data Quality": "",
+                "Max Temp (\u00b0C)": "",
+                "Max Temp Flag": "",
+                "Min Temp (\u00b0C)": "",
+                "Min Temp Flag": "",
+                "Mean Temp (\u00b0C)": "",
+                "Mean Temp Flag": "",
+                "Heat Deg Days (\u00b0C)": "",
+                "Heat Deg Days Flag": "",
+                "Cool Deg Days (\u00b0C)": "",
+                "Cool Deg Days Flag": "",
+                "Total Rain (mm)": "",
+                "Total Rain Flag": "",
+                "Total Snow (cm)": "",
+                "Total Snow Flag": "",
+                "Total Precip (mm)": "",
+                "Total Precip Flag": "",
+                "Snow on Grnd (cm)": "",
+                "Snow on Grnd Flag": "",
+                "Dir of Max Gust (10s deg)": "",
+                "Dir of Max Gust Flag": "",
+                "Spd of Max Gust (km/h)": "",
+                "Spd of Max Gust Flag": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.23,
+                    49.02
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Climate ID": null,
+                "Station Name": "ASHCROFT",
+                "Date/Time": "",
+                "Year": "",
+                "Month": "",
+                "Day": "",
+                "Data Quality": "",
+                "Max Temp (\u00b0C)": "",
+                "Max Temp Flag": "",
+                "Min Temp (\u00b0C)": "",
+                "Min Temp Flag": "",
+                "Mean Temp (\u00b0C)": "",
+                "Mean Temp Flag": "",
+                "Heat Deg Days (\u00b0C)": "",
+                "Heat Deg Days Flag": "",
+                "Cool Deg Days (\u00b0C)": "",
+                "Cool Deg Days Flag": "",
+                "Total Rain (mm)": "",
+                "Total Rain Flag": "",
+                "Total Snow (cm)": "",
+                "Total Snow Flag": "",
+                "Total Precip (mm)": "",
+                "Total Precip Flag": "",
+                "Snow on Grnd (cm)": "",
+                "Snow on Grnd Flag": "",
+                "Dir of Max Gust (10s deg)": "",
+                "Dir of Max Gust Flag": "",
+                "Spd of Max Gust (km/h)": "",
+                "Spd of Max Gust Flag": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.28,
+                    50.71
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Climate ID": null,
+                "Station Name": "BLUE RIVER A",
+                "Date/Time": "",
+                "Year": "",
+                "Month": "",
+                "Day": "",
+                "Data Quality": "",
+                "Max Temp (\u00b0C)": "",
+                "Max Temp Flag": "",
+                "Min Temp (\u00b0C)": "",
+                "Min Temp Flag": "",
+                "Mean Temp (\u00b0C)": "",
+                "Mean Temp Flag": "",
+                "Heat Deg Days (\u00b0C)": "",
+                "Heat Deg Days Flag": "",
+                "Cool Deg Days (\u00b0C)": "",
+                "Cool Deg Days Flag": "",
+                "Total Rain (mm)": "",
+                "Total Rain Flag": "",
+                "Total Snow (cm)": "",
+                "Total Snow Flag": "",
+                "Total Precip (mm)": "",
+                "Total Precip Flag": "",
+                "Snow on Grnd (cm)": "",
+                "Snow on Grnd Flag": "",
+                "Dir of Max Gust (10s deg)": "",
+                "Dir of Max Gust Flag": "",
+                "Spd of Max Gust (km/h)": "",
+                "Spd of Max Gust Flag": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.29,
+                    52.13
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Climate ID": null,
+                "Station Name": "BLUE RIVER CS",
+                "Date/Time": "",
+                "Year": "",
+                "Month": "",
+                "Day": "",
+                "Data Quality": "",
+                "Max Temp (\u00b0C)": "",
+                "Max Temp Flag": "",
+                "Min Temp (\u00b0C)": "",
+                "Min Temp Flag": "",
+                "Mean Temp (\u00b0C)": "",
+                "Mean Temp Flag": "",
+                "Heat Deg Days (\u00b0C)": "",
+                "Heat Deg Days Flag": "",
+                "Cool Deg Days (\u00b0C)": "",
+                "Cool Deg Days Flag": "",
+                "Total Rain (mm)": "",
+                "Total Rain Flag": "",
+                "Total Snow (cm)": "",
+                "Total Snow Flag": "",
+                "Total Precip (mm)": "",
+                "Total Precip Flag": "",
+                "Snow on Grnd (cm)": "",
+                "Snow on Grnd Flag": "",
+                "Dir of Max Gust (10s deg)": "",
+                "Dir of Max Gust Flag": "",
+                "Spd of Max Gust (km/h)": "",
+                "Spd of Max Gust Flag": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.29,
+                    52.13
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Climate ID": null,
+                "Station Name": "James World ",
+                "Date/Time": "",
+                "Year": "",
+                "Month": "",
+                "Day": "",
+                "Data Quality": "",
+                "Max Temp (\u00b0C)": "",
+                "Max Temp Flag": "",
+                "Min Temp (\u00b0C)": "",
+                "Min Temp Flag": "",
+                "Mean Temp (\u00b0C)": "",
+                "Mean Temp Flag": "",
+                "Heat Deg Days (\u00b0C)": "",
+                "Heat Deg Days Flag": "",
+                "Cool Deg Days (\u00b0C)": "",
+                "Cool Deg Days Flag": "",
+                "Total Rain (mm)": "",
+                "Total Rain Flag": "",
+                "Total Snow (cm)": "",
+                "Total Snow Flag": "",
+                "Total Precip (mm)": "",
+                "Total Precip Flag": "",
+                "Snow on Grnd (cm)": "",
+                "Snow on Grnd Flag": "",
+                "Dir of Max Gust (10s deg)": "",
+                "Dir of Max Gust Flag": "",
+                "Spd of Max Gust (km/h)": "",
+                "Spd of Max Gust Flag": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.5182,
+                    49.8811
+                ]
+            }
+        }
+    ]
+}
